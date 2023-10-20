@@ -1,0 +1,70 @@
+:root {
+    --fonte-padrao:'Raleway', sans-serif; 
+    --fonte-chess: 'Almendra', serif;
+}
+
+body {
+    font-family: var(--fonte-padrao);
+}
+
+.chess-title {
+    font-family: var(--fonte-chess);
+}
+
+.container-chess {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container-box {
+    border: 2px solid #333;
+    display: inline-block;
+    position: absolute;
+    left: 300px;
+
+}
+
+  
+  .box1 {
+    height: 100px;
+    width: 100px;
+    background: lightblue;
+    border: 1px solid black;
+    right: 222px;
+    position: absolute;
+    left: 618px;
+    top: 10px;
+  }
+  
+  .box2 {
+    height: 100px;
+    width: 100px;
+    background: lightcoral;
+    border: 1px solid black;
+    position: absolute;
+    left: calc(545px + 175px);
+    top: 10px;
+  }
+  
+  .box3 {
+    height: 100px;
+    width: 100px;
+    background: lightcyan;
+    border: 1px solid black;
+    position: absolute;
+    left: 618px;
+    top: 112px;
+  }
+  
+  .box4 {
+    height: 100px;
+    width: 100px;
+    background: lightgoldenrodyellow;
+    border: 1px solid black;
+    top: 112px;
+    left: calc(545px + 175px);
+    position: absolute;
+  }
