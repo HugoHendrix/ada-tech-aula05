@@ -29,3 +29,18 @@ As pseudo-classes são como o tempero secreto dos estilos CSS. Aprenda como usá
 Posicionar elementos na página é uma arte. Discutimos os três principais tipos de posicionamento: `static` (padrão), `relative` (posicionamento relativo ao seu local original) e `absolute` (posicionamento em relação ao elemento pai). Saiba quando usar cada um para criar designs eficazes.
 
 ---
+
+
+## Imagens dos desafios
+
+### Desafio do Xadrez
+![Desafio do Xadrez](https://github.com/HugoHendrix/ada-tech-aula05/blob/main/ds01.png?raw=true)
+
+### Desafio dos seletores
+![Desafio dos seletores](https://github.com/HugoHendrix/ada-tech-aula05/blob/main/ds02.png?raw=true)
+
+### Desafio Position Relative e Absolute
+![Desafio Position Relative e absolute](https://github.com/HugoHendrix/ada-tech-aula05/blob/main/ds03.png?raw=true)
+
+### Desafio Position Relative e Absolute
+![Desafio Position relative e absolute](https://github.com/HugoHendrix/ada-tech-aula05/blob/main/ds04.png?raw=true)
