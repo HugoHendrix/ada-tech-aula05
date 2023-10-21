@@ -7,11 +7,16 @@ body {
     font-family: var(--fonte-padrao);
 }
 
-.chess-title {
+.custom-title {
     font-family: var(--fonte-chess);
+    right: 0;
+    margin-left: 0;
+    position: absolute;
+    top: 20px;
+    left: 140px;
 }
 
-.container-chess {
+.custom-container {
     display: flex;
     justify-content: center;
     align-items: center;
